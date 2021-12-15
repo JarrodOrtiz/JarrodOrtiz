@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JarrodOrtiz
-- 👀 I’m interested in ...moving towards a career in Software development
-- 🌱 I’m currently learning ...starting Full stack bootcamp
-- 💞️ I’m looking to collaborate on ... difficult projects from the course
+- 👀 I’m interested in ...stuff and things
+- 💞️ I’m looking to grow my Technical network
 - 📫 How to reach me ...Jarrodortiz61@gmail.com
 
 <!---
